@@ -9,7 +9,7 @@ Euphoria is a concept project to unify a memorable **social invoicing** experien
 ## :running: Feature Walkthrough :running:
 
 ### :money_with_wings: Social Invoicing :money_with_wings:
-![Alt Text](https://github.com/johnny-liaw/Euphoria/blob/master/social_invoicing.gif | width=150)
+![Alt Text](https://github.com/johnny-liaw/Euphoria/blob/master/social_invoicing.gif =200x)
 
 ### :credit_card: Easy Card Management :credit_card:
 
