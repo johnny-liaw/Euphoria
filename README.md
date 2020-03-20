@@ -6,19 +6,19 @@ One of the major issues with banking apps is that they generally don't allow for
 
 Euphoria is a concept project to unify a memorable **social invoicing** experience and traditional banking features all under the same app.
 
-## Feature Walkthrough
+## :running: Feature Walkthrough :running:
 
-### Social Invoicing
+### :money_with_wings: Social Invoicing :money_with_wings:
 
-### Easy Card Management
+### :credit_card: Easy Card Management :credit_card:
 
-### Seamless Transaction Monitoring
+### :telescope: Seamless Transaction Monitoring :telescope:
 
-### Convenient Way To Save
+### :moneybag: Convenient Way To Save :moneybag:
 
 
 
-## Credits & Acknowledgements
+## :heart: Credits & Acknowledgements :heart:
 
 - The social invoicing feature was highly inspired by the app **BeemIt**, it is available for Australian banking users only.  Their rich set of social invoicing features such as pay/request/split has proven to be a lifesaver for me and my friends (https://www.beemit.com.au/).
 
