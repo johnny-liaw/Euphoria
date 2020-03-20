@@ -1,4 +1,4 @@
-# Euphoria - A Mobile First Digital Banking Experience
+# :fire: Euphoria - A Mobile First Digital Banking Experience :fire: 
 
 Inspired by the wave of Neobanks arriving in Australia (Upbank, Archa, Xinja, 86400 and Volt), I wanted to craft my own  interpretation of what a digital banking experience should look like. 
 
@@ -8,13 +8,13 @@ Euphoria is a concept project to unify a memorable **social invoicing** experien
 
 ## Feature Walkthrough
 
-# Social Invoicing
+### Social Invoicing
 
-# Easy Card Management
+### Easy Card Management
 
-# Seamless Transaction Monitoring
+### Seamless Transaction Monitoring
 
-# Convenient Way To Save
+### Convenient Way To Save
 
 
 
