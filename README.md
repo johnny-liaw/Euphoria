@@ -1,16 +1,25 @@
-# euphoria
+# :fire: Euphoria - A Mobile First Digital Banking Experience :fire: 
 
-A new Flutter application.
+Inspired by the wave of Neobanks arriving in Australia (Upbank, Archa, Xinja, 86400 and Volt), I wanted to craft my own  interpretation of what a digital banking experience should look like. 
 
-## Getting Started
+One of the major issues with banking apps is that they generally don't allow for a memorable **social invoicing** (paying your friends, essentially) experience. Whereas apps such as *BeemIt*, which does social invoicing extremely well, doesn't allow you to track your expenses and do normal "bank things". In a nutshell, there isn't a banking app that allows you to bank and pay your friends easily.
 
-This project is a starting point for a Flutter application.
+Euphoria is a concept project to unify a memorable **social invoicing** experience and traditional banking features all under the same app.
 
-A few resources to get you started if this is your first Flutter project:
+## :running: Feature Walkthrough :running:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### :money_with_wings: Social Invoicing :money_with_wings:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### :credit_card: Easy Card Management :credit_card:
+
+### :telescope: Seamless Transaction Monitoring :telescope:
+
+### :moneybag: Convenient Way To Save :moneybag:
+
+
+
+## :heart: Credits & Acknowledgements :heart:
+
+- The social invoicing feature was highly inspired by the app **BeemIt**, it is available for Australian banking users only.  Their rich set of social invoicing features such as pay/request/split has proven to be a lifesaver for me and my friends (https://www.beemit.com.au/).
+
+- Other areas of the app that highly inspired the navigations and general feel of the app are Upbank (https://up.com.au/), Xinja (https://xinja.com.au/) and Volt Bank (https://www.voltbank.com.au/).
