@@ -17,8 +17,9 @@ Euphoria is a concept project to unify a memorable **social invoicing** experien
 ### :moneybag: Convenient Way To Save :moneybag:
 ![Alt Text](https://github.com/johnny-liaw/Euphoria/blob/master/savings.gif)
 
-### :telescope: Seamless Transaction Monitoring :telescope:
-![](https://github.com/johnny-liaw/Euphoria/blob/master/card.png | width=200)
+### Transaction View            |  Some other stuff
+:-------------------------:|:-------------------------:
+![](https://github.com/johnny-liaw/Euphoria/blob/master/card.png)  |  ![](https://github.com/johnny-liaw/Euphoria/blob/master/card.png)
 
 ## :heart: Credits & Acknowledgements :heart:
 
